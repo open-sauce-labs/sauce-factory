@@ -16,6 +16,7 @@
 - [x] "NFT landing page" - Customizable NFT collection landing page
 - [ ] "Story driven NFT landing page" - Customizable story driven NFT collection landing page
 - [ ] "Mint site" - Customizable mint site
+- [ ] "Merch site" - Customizable merch site
 - [ ] "Raffle site" - Customizable raffle site
 - [ ] "Staking site" - Customizable staking site
 - [ ] "Marketplace" - Customizable Solana marketplace site
